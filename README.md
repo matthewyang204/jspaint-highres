@@ -1,7 +1,7 @@
 
 # [![](images/icons/32x32.png) JS Paint](https://jspaint.app)
 
-Note: This is just a fork repository with the same source code. I am only distributing some binaries that the original repository may not provide for your system.
+Note: This is just a fork repository with the same source code. I am only distributing some binaries that the original repository may not provide for your system. They may also be more high-resolution than the original binaries.
 
 A pixel-perfect web-based MS Paint remake and more... [Try it out!](https://jspaint.app)
 Then join the brand-new [Discord server](https://discord.gg/SyFweYjTKx) to share your art!
